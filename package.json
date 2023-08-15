@@ -1,5 +1,5 @@
 {
-	"name": "Arvene Eco",
+	"author": "Arvene Eco",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
