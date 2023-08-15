@@ -1,5 +1,6 @@
 {
-	"author": "Arvene Eco",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Arvene Gerard Eco",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
